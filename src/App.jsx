@@ -1,8 +1,8 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Todo from "./Todo";
 import Toodo from "./Todo/Todo";
-import Home from "./shop/Home";
-import Cart from "./shop/Cart";
+import Home from "./Shop/Home";
+import Cart from "./Shop/Cart";
 import { Provider } from "react-redux";
 import store from "./store/store";
 function App() {
