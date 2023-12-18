@@ -4,6 +4,8 @@ const Nav = () => {
     { name: "Home", link: "#home" },
     { name: "About", link: "#about" },
     { name: "Contact", link: "#contact" },
+    { name: "Todo", link: "/todo" },
+    { name: "Shop", link: "/shop" },
   ];
 
   return (
